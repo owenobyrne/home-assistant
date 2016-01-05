@@ -1,0 +1,387 @@
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:4626 - DEBUG - Python version: 2.7.6
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:4627 - DEBUG - RFXCMD Version: 0.3 (739)
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:4628 - DEBUG - Date: 2014-11-27 08:05:33 +0100 (Thu, 27 Nov 2014) 
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:4632 - DEBUG - Configfile: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:4633 - DEBUG - Read configuration file
+2016-01-05 04:36:29,867 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,868 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,868 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,869 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: serial_active
+2016-01-05 04:36:29,870 - MainThread - rfxcmd:3883 - DEBUG - Found: <serial_active>yes</serial_active>
+2016-01-05 04:36:29,870 - MainThread - rfxcmd:3885 - DEBUG - --> yes
+2016-01-05 04:36:29,870 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,870 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,870 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,871 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,872 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: serial_device
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3883 - DEBUG - Found: <serial_device>/dev/ttyUSB0</serial_device>
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3885 - DEBUG - --> /dev/ttyUSB0
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,873 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: serial_rate
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3883 - DEBUG - Found: <serial_rate>38400</serial_rate>
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3885 - DEBUG - --> 38400
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,875 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,876 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,877 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: serial_timeout
+2016-01-05 04:36:29,877 - MainThread - rfxcmd:3883 - DEBUG - Found: <serial_timeout>9</serial_timeout>
+2016-01-05 04:36:29,877 - MainThread - rfxcmd:3885 - DEBUG - --> 9
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:4286 - DEBUG - Serial device: /dev/ttyUSB0
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:4287 - DEBUG - Serial rate: 38400
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:4288 - DEBUG - Serial timeout: 9
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,878 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,880 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: process_rfxmsg
+2016-01-05 04:36:29,880 - MainThread - rfxcmd:3883 - DEBUG - Found: <process_rfxmsg>yes</process_rfxmsg>
+2016-01-05 04:36:29,880 - MainThread - rfxcmd:3885 - DEBUG - --> yes
+2016-01-05 04:36:29,880 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,880 - MainThread - rfxcmd:4296 - DEBUG - Process RFXmsg: True
+2016-01-05 04:36:29,881 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,881 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,881 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,882 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: mysql_active
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3883 - DEBUG - Found: <mysql_active>no</mysql_active>
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,883 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,885 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: mysql_server
+2016-01-05 04:36:29,885 - MainThread - rfxcmd:3883 - DEBUG - Found: <mysql_server>localhost</mysql_server>
+2016-01-05 04:36:29,885 - MainThread - rfxcmd:3885 - DEBUG - --> localhost
+2016-01-05 04:36:29,885 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,885 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,886 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,886 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,887 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: mysql_database
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3883 - DEBUG - Found: <mysql_database>rfx</mysql_database>
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3885 - DEBUG - --> rfx
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,888 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,890 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: mysql_username
+2016-01-05 04:36:29,890 - MainThread - rfxcmd:3883 - DEBUG - Found: <mysql_username>rfxuser</mysql_username>
+2016-01-05 04:36:29,890 - MainThread - rfxcmd:3885 - DEBUG - --> rfxuser
+2016-01-05 04:36:29,890 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,890 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,891 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,891 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,892 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: mysql_password
+2016-01-05 04:36:29,892 - MainThread - rfxcmd:3883 - DEBUG - Found: <mysql_password>rfxuser1</mysql_password>
+2016-01-05 04:36:29,892 - MainThread - rfxcmd:3885 - DEBUG - --> rfxuser1
+2016-01-05 04:36:29,893 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,893 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,893 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,893 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,894 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: trigger_active
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3883 - DEBUG - Found: <trigger_active>no</trigger_active>
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,895 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,897 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: trigger_onematch
+2016-01-05 04:36:29,897 - MainThread - rfxcmd:3883 - DEBUG - Found: <trigger_onematch>no</trigger_onematch>
+2016-01-05 04:36:29,897 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,897 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,898 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,898 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,898 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,899 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: trigger_file
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3883 - DEBUG - Found: <trigger_file>trigger.xml</trigger_file>
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3885 - DEBUG - --> trigger.xml
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,900 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,902 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: trigger_timeout
+2016-01-05 04:36:29,902 - MainThread - rfxcmd:3883 - DEBUG - Found: <trigger_timeout>10</trigger_timeout>
+2016-01-05 04:36:29,902 - MainThread - rfxcmd:3885 - DEBUG - --> 10
+2016-01-05 04:36:29,902 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,903 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,903 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,903 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,904 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: sqlite_active
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3883 - DEBUG - Found: <sqlite_active>no</sqlite_active>
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,905 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,911 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: sqlite_database
+2016-01-05 04:36:29,911 - MainThread - rfxcmd:3883 - DEBUG - Found: <sqlite_database>sqlite.db</sqlite_database>
+2016-01-05 04:36:29,911 - MainThread - rfxcmd:3885 - DEBUG - --> sqlite.db
+2016-01-05 04:36:29,912 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,912 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,912 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,912 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,913 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: sqlite_table
+2016-01-05 04:36:29,913 - MainThread - rfxcmd:3883 - DEBUG - Found: <sqlite_table>rfxcmd</sqlite_table>
+2016-01-05 04:36:29,914 - MainThread - rfxcmd:3885 - DEBUG - --> rfxcmd
+2016-01-05 04:36:29,914 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,914 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,914 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,914 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,915 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_active
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_active>no</pgsql_active>
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,916 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,918 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_server
+2016-01-05 04:36:29,918 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_server>localhost</pgsql_server>
+2016-01-05 04:36:29,918 - MainThread - rfxcmd:3885 - DEBUG - --> localhost
+2016-01-05 04:36:29,918 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,919 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,919 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,919 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,920 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_database
+2016-01-05 04:36:29,920 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_database>rfx</pgsql_database>
+2016-01-05 04:36:29,920 - MainThread - rfxcmd:3885 - DEBUG - --> rfx
+2016-01-05 04:36:29,921 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,921 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,921 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,921 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,922 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_port
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_port>5432</pgsql_port>
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3885 - DEBUG - --> 5432
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,923 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,925 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_username
+2016-01-05 04:36:29,925 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_username>rfxuser</pgsql_username>
+2016-01-05 04:36:29,925 - MainThread - rfxcmd:3885 - DEBUG - --> rfxuser
+2016-01-05 04:36:29,925 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,925 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,926 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,926 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,927 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_password
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_password>rfxuser1</pgsql_password>
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3885 - DEBUG - --> rfxuser1
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,928 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,929 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: pgsql_table
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3883 - DEBUG - Found: <pgsql_table>rfxcmd</pgsql_table>
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3885 - DEBUG - --> rfxcmd
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,930 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,932 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: graphite_active
+2016-01-05 04:36:29,932 - MainThread - rfxcmd:3883 - DEBUG - Found: <graphite_active>no</graphite_active>
+2016-01-05 04:36:29,932 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,932 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,932 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,933 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,933 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,934 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: graphite_server
+2016-01-05 04:36:29,934 - MainThread - rfxcmd:3883 - DEBUG - Found: <graphite_server>127.0.0.1</graphite_server>
+2016-01-05 04:36:29,935 - MainThread - rfxcmd:3885 - DEBUG - --> 127.0.0.1
+2016-01-05 04:36:29,935 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,935 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,935 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,935 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,936 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: graphite_port
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3883 - DEBUG - Found: <graphite_port>2003</graphite_port>
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3885 - DEBUG - --> 2003
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,937 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: xpl_active
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3883 - DEBUG - Found: <xpl_active>no</xpl_active>
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,939 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,940 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,941 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: socketserver
+2016-01-05 04:36:29,941 - MainThread - rfxcmd:3883 - DEBUG - Found: <socketserver>yes</socketserver>
+2016-01-05 04:36:29,941 - MainThread - rfxcmd:3885 - DEBUG - --> yes
+2016-01-05 04:36:29,941 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,942 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,942 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,942 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,943 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: sockethost
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3883 - DEBUG - Found: <sockethost>localhost</sockethost>
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3885 - DEBUG - --> localhost
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,944 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,945 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: socketport
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:3883 - DEBUG - Found: <socketport>55000</socketport>
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:3885 - DEBUG - --> 55000
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:4376 - DEBUG - SocketServer: True
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:4377 - DEBUG - SocketHost: localhost
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:4378 - DEBUG - SocketPort: 55000
+2016-01-05 04:36:29,946 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,947 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,947 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,948 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: whitelist_active
+2016-01-05 04:36:29,948 - MainThread - rfxcmd:3883 - DEBUG - Found: <whitelist_active>no</whitelist_active>
+2016-01-05 04:36:29,949 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,949 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,949 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,949 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,949 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,954 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: whitelist_file
+2016-01-05 04:36:29,955 - MainThread - rfxcmd:3883 - DEBUG - Found: <whitelist_file>whitelist.xml</whitelist_file>
+2016-01-05 04:36:29,955 - MainThread - rfxcmd:3885 - DEBUG - --> whitelist.xml
+2016-01-05 04:36:29,955 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,955 - MainThread - rfxcmd:4387 - DEBUG - Whitelist_active: False
+2016-01-05 04:36:29,955 - MainThread - rfxcmd:4388 - DEBUG - Whitelist_file: whitelist.xml
+2016-01-05 04:36:29,956 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,956 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,956 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,957 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: daemon_active
+2016-01-05 04:36:29,957 - MainThread - rfxcmd:3883 - DEBUG - Found: <daemon_active>no</daemon_active>
+2016-01-05 04:36:29,957 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,958 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,958 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,958 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,958 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,959 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: daemon_pidfile
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:3883 - DEBUG - Found: <daemon_pidfile>/var/run/rfxcmd.pid</daemon_pidfile>
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:3885 - DEBUG - --> /var/run/rfxcmd.pid
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:4397 - DEBUG - Daemon_active: False
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:4398 - DEBUG - Daemon_pidfile: /var/run/rfxcmd.pid
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,960 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,961 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,962 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: weewx_active
+2016-01-05 04:36:29,962 - MainThread - rfxcmd:3883 - DEBUG - Found: <weewx_active>no</weewx_active>
+2016-01-05 04:36:29,963 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,963 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,963 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,963 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,963 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,964 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: weewx_config
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:3883 - DEBUG - Found: <weewx_config>weewx.xml</weewx_config>
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:3885 - DEBUG - --> weewx.xml
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:4407 - DEBUG - WeeWx_active: False
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:4408 - DEBUG - WeeWx_config: weewx.xml
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,965 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,966 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,967 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: rrd_active
+2016-01-05 04:36:29,967 - MainThread - rfxcmd:3883 - DEBUG - Found: <rrd_active>no</rrd_active>
+2016-01-05 04:36:29,967 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,967 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,967 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,968 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,968 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,969 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: rrd_path
+2016-01-05 04:36:29,969 - MainThread - rfxcmd:3883 - DEBUG - Found: <rrd_path/>
+2016-01-05 04:36:29,970 - MainThread - rfxcmd:3885 - DEBUG - --> <rrd_path/>
+2016-01-05 04:36:29,970 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,970 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,970 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,970 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,971 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: barometric
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3883 - DEBUG - Found: <barometric>0</barometric>
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3885 - DEBUG - --> 0
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,972 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,974 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: log_msg
+2016-01-05 04:36:29,974 - MainThread - rfxcmd:3883 - DEBUG - Found: <log_msg>no</log_msg>
+2016-01-05 04:36:29,974 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,974 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,975 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,975 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,975 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,976 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: log_msgfile
+2016-01-05 04:36:29,976 - MainThread - rfxcmd:3883 - DEBUG - Found: <log_msgfile>msg.log</log_msgfile>
+2016-01-05 04:36:29,976 - MainThread - rfxcmd:3885 - DEBUG - --> msg.log
+2016-01-05 04:36:29,977 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,977 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,977 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,977 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,978 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: protocol_startup
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3883 - DEBUG - Found: <protocol_startup>no</protocol_startup>
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3885 - DEBUG - --> no
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3860 - DEBUG - Open configuration file
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3861 - DEBUG - File: /opt/rfxcmd/config.xml
+2016-01-05 04:36:29,979 - MainThread - rfxcmd:3871 - DEBUG - Parse config XML data
+2016-01-05 04:36:29,981 - MainThread - rfxcmd:3879 - DEBUG - Get the configuration item: protocol_file
+2016-01-05 04:36:29,981 - MainThread - rfxcmd:3883 - DEBUG - Found: <protocol_file>protocol.xml</protocol_file>
+2016-01-05 04:36:29,981 - MainThread - rfxcmd:3885 - DEBUG - --> protocol.xml
+2016-01-05 04:36:29,981 - MainThread - rfxcmd:3890 - DEBUG - Return
+2016-01-05 04:36:29,989 - MainThread - rfxcmd:4639 - DEBUG - Verbose printout [main:4639]
+2016-01-05 04:36:29,989 - MainThread - rfxcmd:4045 - DEBUG - Start listening...
+2016-01-05 04:36:29,989 - MainThread - rfxcmd:4048 - DEBUG - Open serial port
+2016-01-05 04:36:29,989 - MainThread - rfxcmd:4456 - DEBUG - Serial extension version: 2.7
+2016-01-05 04:36:29,989 - MainThread - rfxcmd:4465 - DEBUG - Device: /dev/ttyUSB0
+2016-01-05 04:36:29,990 - MainThread - rfxcmd:4473 - DEBUG - Open Serialport
+2016-01-05 04:36:30,007 - Thread-1 - rfx_socket:139 - DEBUG - LoopNetServer Thread started
+2016-01-05 04:36:30,008 - Thread-1 - rfx_socket:140 - DEBUG - Listening on: [localhost:55000]
+2016-01-05 04:36:30,007 - MainThread - rfxcmd:4059 - DEBUG - Socket interface started
+2016-01-05 04:36:30,009 - MainThread - rfxcmd:4065 - DEBUG - Serialport flush output
+2016-01-05 04:36:30,009 - MainThread - rfxcmd:4067 - DEBUG - Serialport flush input
+2016-01-05 04:36:30,009 - MainThread - rfxcmd:4071 - DEBUG - Send rfxcmd_reset (0d00000000000000000000000000)
+2016-01-05 04:36:30,010 - MainThread - rfxcmd:4073 - DEBUG - Sleep 1 sec
+2016-01-05 04:36:31,012 - MainThread - rfxcmd:4077 - DEBUG - Serialport flush output
+2016-01-05 04:36:31,013 - MainThread - rfxcmd:4079 - DEBUG - Serialport flush input
+2016-01-05 04:36:31,013 - MainThread - rfxcmd:4083 - DEBUG - Send rfxcmd_status (0d00000002000000000000000000)
+2016-01-05 04:36:31,014 - MainThread - rfxcmd:4085 - DEBUG - Sleep 1 sec
+2016-01-05 04:36:32,026 - MainThread - rfxcmd:3779 - DEBUG - Timestamp: 2016-01-05 04:36:32
+2016-01-05 04:36:32,026 - MainThread - rfxcmd:3780 - DEBUG - SerWaiting: 14
+2016-01-05 04:36:32,027 - MainThread - rfxcmd:3782 - DEBUG - Byte: 0D
+2016-01-05 04:36:32,027 - MainThread - rfxcmd:3789 - DEBUG - Message: 0D 01 00 00 02 53 F8 00 02 09 00 01 03 1C
+2016-01-05 04:36:32,028 - MainThread - rfxcmd:3795 - DEBUG - Verify length
+2016-01-05 04:36:32,028 - MainThread - rfxcmd:3798 - DEBUG - Length OK
+2016-01-05 04:36:32,029 - MainThread - rfxcmd:3827 - DEBUG - Decode packet
+2016-01-05 04:36:32,029 - MainThread - rfxcmd:597 - DEBUG - Verify incoming packet
+2016-01-05 04:36:32,029 - MainThread - rfxcmd:3699 - DEBUG - Test message: 0D 01 00 00 02 53 F8 00 02 09 00 01 03 1C
+2016-01-05 04:36:32,030 - MainThread - rfxcmd:3739 - DEBUG - Message OK
+2016-01-05 04:36:32,030 - MainThread - rfxcmd:604 - DEBUG - Verified OK
+2016-01-05 04:36:32,030 - MainThread - rfxcmd:610 - DEBUG - PacketType: 01
+2016-01-05 04:36:32,031 - MainThread - rfxcmd:614 - DEBUG - SubType: 00
+2016-01-05 04:36:32,031 - MainThread - rfxcmd:618 - DEBUG - SeqNbr: 00
+2016-01-05 04:36:32,031 - MainThread - rfxcmd:622 - DEBUG - Id1: 02
+2016-01-05 04:36:32,032 - MainThread - rfxcmd:626 - DEBUG - Id2: 53
+2016-01-05 04:36:32,032 - MainThread - rfxcmd:645 - DEBUG - Verify correct packet length
+2016-01-05 04:36:32,032 - MainThread - rfxcmd:865 - DEBUG - Decode packetType 0x01 - Start
+2016-01-05 04:36:32,033 - MainThread - rfxcmd:1059 - DEBUG - Decode packetType 0x01 - End
+2016-01-05 04:36:32,034 - MainThread - rfxcmd:4112 - DEBUG - Processed: 0D0100000253F80002090001031C
+2016-01-05 04:36:46,068 - MainThread - rfxcmd:3779 - DEBUG - Timestamp: 2016-01-05 04:36:46
+2016-01-05 04:36:46,069 - MainThread - rfxcmd:3780 - DEBUG - SerWaiting: 12
+2016-01-05 04:36:46,070 - MainThread - rfxcmd:3782 - DEBUG - Byte: 0B
+2016-01-05 04:36:46,071 - MainThread - rfxcmd:3789 - DEBUG - Message: 0B 11 01 00 00 00 00 9C 03 00 00 40
+2016-01-05 04:36:46,071 - MainThread - rfxcmd:3795 - DEBUG - Verify length
+2016-01-05 04:36:46,071 - MainThread - rfxcmd:3798 - DEBUG - Length OK
+2016-01-05 04:36:46,073 - MainThread - rfxcmd:3827 - DEBUG - Decode packet
+2016-01-05 04:36:46,073 - MainThread - rfxcmd:597 - DEBUG - Verify incoming packet
+2016-01-05 04:36:46,073 - MainThread - rfxcmd:3699 - DEBUG - Test message: 0B 11 01 00 00 00 00 9C 03 00 00 40
+2016-01-05 04:36:46,074 - MainThread - rfxcmd:3739 - DEBUG - Message OK
+2016-01-05 04:36:46,074 - MainThread - rfxcmd:604 - DEBUG - Verified OK
+2016-01-05 04:36:46,074 - MainThread - rfxcmd:610 - DEBUG - PacketType: 11
+2016-01-05 04:36:46,074 - MainThread - rfxcmd:614 - DEBUG - SubType: 01
+2016-01-05 04:36:46,075 - MainThread - rfxcmd:618 - DEBUG - SeqNbr: 00
+2016-01-05 04:36:46,075 - MainThread - rfxcmd:622 - DEBUG - Id1: 00
+2016-01-05 04:36:46,075 - MainThread - rfxcmd:626 - DEBUG - Id2: 00
+2016-01-05 04:36:46,075 - MainThread - rfxcmd:645 - DEBUG - Verify correct packet length
+2016-01-05 04:36:46,075 - MainThread - rfxcmd:1233 - DEBUG - Decode packetType 0x11 - Start
+2016-01-05 04:36:46,076 - MainThread - rfxcmd:1291 - DEBUG - Decode packetType 0x11 - End
+2016-01-05 04:36:46,076 - MainThread - rfxcmd:4112 - DEBUG - Processed: 0B1101000000009C03000040
+2016-01-05 04:37:03,070 - MainThread - rfxcmd:345 - DEBUG - Signal 2 caught, exiting...
+2016-01-05 04:37:03,070 - MainThread - rfxcmd:328 - DEBUG - Shutdown
+2016-01-05 04:37:03,070 - MainThread - rfxcmd:335 - DEBUG - Close serial port
+2016-01-05 04:37:03,074 - MainThread - rfxcmd:339 - DEBUG - Exit 0
